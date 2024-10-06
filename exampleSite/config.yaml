@@ -2,12 +2,12 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Coucou's blog
+title: Lylz's blog
 
 languages:
     en:
         languageName: English
-        title: Coucou's blog
+        title: Lylz's blog
         weight: 1
     zh-cn:
         languageName: 中文
@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 这是Coucou的博客网站
+        subtitle: 这是Lylz的博客网站
         avatar:
             enabled: true
             local: true
@@ -196,7 +196,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/Acoucou/hugo-theme-stack
+          url: https://github.com/LiuZhouJay/hugo-theme-stack
           params:
               icon: brand-github
 
